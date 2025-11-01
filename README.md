@@ -1,3 +1,9 @@
+## UPDATE
+* being re-written in c++ too big and compicated for my python skills :)
+* looking to better integrate with c++ cribbing, so crib app first 
+* for latest data see https://github.com/mortlach/google_ngrams_Version-20200217
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Hints](#hints)
